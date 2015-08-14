@@ -1,0 +1,40 @@
+/* Empty. Add your own CSS if you like */
+
+.scroll-content-full-image {
+    background: url("../img/back.png") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    overflow: hidden;
+    background-size: cover;
+}
+
+#logo{
+	background: url("../img/logo.png") no-repeat;
+	width: auto;
+	background-size: cover;
+	height: 200px;
+}
+
+
+/* Buttons */
+
+.btn{
+	border: none;
+	width: 100%;
+	line-height: 50px;	
+}
+
+.connexion{
+	color: #FFF;
+	font-size: 20px;
+	text-transform: uppercase;
+	background: #F5A623;
+
+}
+
+.register{
+	color: #FFF;
+	font-size: 20px;
+	text-transform: uppercase;
+	background-color: rgba(0, 0, 0, 0.6);
+}
